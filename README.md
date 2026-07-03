@@ -228,7 +228,7 @@ My objective is to combine strategic management principles with modern AI techno
 MBA
  │
  ▼
-Strategic Planning
+Strategy
  │
  ▼
 Business Intelligence
@@ -240,17 +240,18 @@ Data Analytics
 Machine Learning ✔
  │
  ▼
-Deep Learning 🚀
- │
- ▼
 Data Engineering
  │
  ▼
-AI Decision Intelligence
+Deep Learning 🚀
+ │
+ ▼
+AI-Driven Decision Intelligence
 ```
 
 > **Continuous learning is the foundation of sustainable innovation.**
 
+---
 ---
 ## 🎯 Areas of Interest
 
