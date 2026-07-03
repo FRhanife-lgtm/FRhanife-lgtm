@@ -22,7 +22,7 @@
 ---
 # 🎯 Executive Introduction
 
-MBA professional specializing in strategic planning, business intelligence, and data-driven organizational transformation.
+MBA professional specializing in strategy, business intelligence, and data-driven organizational transformation.
 
 My professional focus lies at the intersection of business strategy, business intelligence, data analytics, and artificial intelligence.
 
@@ -44,7 +44,7 @@ Currently, I am expanding my expertise in **Deep Learning**, **Data Engineering*
 |-----------|------|-------------------------|
 | Strategic Planning | Data Analytics | Machine Learning |
 | KPI & Performance Management | Business Intelligence | Deep Learning *(Current Focus)* |
-| Process & Policy Design | Data Visualization | AI-Driven Decision Intelligence |
+| Process & Policy Design | Business Data Visualization | AI-Driven Decision Intelligence |
 
 ---
 
@@ -98,7 +98,7 @@ Building scalable APIs and intelligent backend services.
 
 <td valign="top" width="25%">
 
-### 🛠 Development Tools
+### 🗄 Data & Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,jupyter" />
@@ -114,7 +114,7 @@ Databases, version control, development, and experimentation.
 ---
 ## 🌟 Signature Expertise
 
-I specialize in connecting **business strategy** with **data intelligence**.
+I specialize in connecting **business strategy** with **business intelligence**.
 
 My approach combines:
 
@@ -181,7 +181,6 @@ Deep Learning 🚀
  │
  ▼
 AI-Driven Decision Intelligence
-
  │
  ▼
 Intelligent Organizations
@@ -206,7 +205,7 @@ I enjoy working on projects that combine strategic thinking with modern technolo
 - 🏗 Data Engineering
 - 📑 Policy Analytics
 - ⚙ Intelligent Process Automation
-- 📉 Performance Measurement
+- 📉 Decision Intelligence
 - 🏛 Organizational Strategy
 
 ---
@@ -216,6 +215,16 @@ My long-term vision is to contribute to organizations that embrace evidence-base
 
 I aspire to bridge the gap between **business strategy**, **data science**, and **AI**, enabling institutions to make better decisions, improve operational performance, and create sustainable impact.
 
+---
+## 🏆 Professional Highlights
+
+- 🎓 Master of Business Administration (MBA)
+- 📊 Business Intelligence & Data Analytics
+- 🧠 Machine Learning Practitioner
+- 🌐 Deep Learning (Current Learning Focus)
+- 🏛 Strategy & Organizational Systems
+- 🤖 AI-Driven Decision Intelligence
+- 
 ---
 ## 📊 GitHub Analytics
 
