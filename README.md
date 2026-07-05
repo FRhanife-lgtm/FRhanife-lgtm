@@ -235,7 +235,7 @@ If our interests align, feel free to connect or collaborate.
 
 <div align="center">
 
-<a href="mailto:f.r.hanafi786@gmail.com">
+<a href="mailto:frhanife@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
