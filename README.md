@@ -32,8 +32,8 @@ I am passionate about designing intelligent systems that help organizations make
 
 ## 🏛 Executive Capabilities
 
-| Strategy | Data | Artificial Intelligence |
-|-----------|------|-------------------------|
+| Strategy & Leadership | Data & Analytics | Artificial Intelligence |
+|------------------------|------------------|-------------------------|
 | Strategic Planning | Data Analytics | Machine Learning |
 | KPI & Performance Management | Business Intelligence | Deep Learning *(Current Focus)* |
 | Process & Policy Design | Business Data Visualization | AI-Driven Decision Intelligence |
@@ -70,7 +70,7 @@ Python for data analysis, automation, machine learning, and backend development.
 <img src="https://skillicons.dev/icons?i=pandas,numpy,tensorflow" />
 </p>
 
-Data analysis, machine learning, statistical modeling, and deep learning.
+Data analysis, machine learning, deep learning, and predictive modeling.
 
 </td>
 
@@ -113,28 +113,28 @@ Transforming business strategy into measurable organizational value through busi
 
 The repositories below represent my professional roadmap and ongoing work. Each project is designed to solve practical organizational challenges through strategy, business intelligence, data analytics, and artificial intelligence.
 
-| Project | Focus Area | Status |
+| Repository  | Focus Area | Status |
 |----------|------------|--------|
-| 📊 Executive KPI Dashboard | Executive KPI Monitoring & Performance Management | 🚧 In Progress |
+| 📊 Executive KPI Dashboard | Organizational Performance & KPI Monitoring | 🚧 In Progress |
 | 📈 Business Intelligence Dashboard | Executive Reporting & Business Insights | 🚧 Planned |
-| 🤖 AI Decision Support System | AI-Powered Decision Intelligence | 🚧 Planned |
-| 🧠 Machine Learning Portfolio | Predictive Analytics & Machine Learning Applications | ✅ Ongoing |
-| 🌐 Deep Learning Portfolio | Deep Learning & Neural Network Applications | 🚀 Current Focus |
-| ⚙ Business Process Automation Toolkit | Intelligent Process Automation with Python | 🚧 Planned |
+| ⚙ Business Process Automation | Intelligent Automation with Python | 🚧 Planned |
+| 🧠 Machine Learning Portfolio | Predictive Modeling & Business Applications | ✅ Ongoing |
+| 🤖 AI Decision Intelligence | AI-Based Decision Support Systems | 🚧 Planned |
+| 🌐 Deep Learning Portfolio | Neural Networks & Advanced AI | 🚀 Current Focus 
 
 ---
 ## 📌 Current Focus
 
-I'm currently focused on expanding my expertise in:
+I am currently strengthening my expertise across the modern data and AI ecosystem, with a particular emphasis on building intelligent, data-driven organizations.
 
-- 🧠 Deep Learning
-- 📊 Advanced Business Intelligence
 - 🏗 Data Engineering
-- 🤖 AI-powered Decision Support Systems
+- 🧠 Deep Learning
 - 📈 Predictive Analytics
+- 🤖 AI-Powered Decision Intelligence
+- 📊 Advanced Business Intelligence
 - ⚙ Intelligent Process Automation
 
-My objective is to combine strategic management principles with modern AI technologies to build intelligent, data-driven organizations.
+My goal is to bridge strategy, analytics, and artificial intelligence to design scalable solutions that support organizational decision-making and sustainable business growth.
 
 ---
 ## 📚 Learning Journey
@@ -152,10 +152,10 @@ Business Intelligence
 Data Analytics
  │
  ▼
-Machine Learning ✔
+Data Engineering
  │
  ▼
-Data Engineering
+Machine Learning ✔
  │
  ▼
 Deep Learning 🚀
@@ -207,15 +207,21 @@ My long-term goal is to design intelligent systems that transform data into stra
 ---
 ## 📈 Professional Impact
 
+I believe technology creates value only when it solves real organizational challenges.
+
 Transforming:
 
-- 📊 Data → Insights
-- 📈 Insights → Strategy
-- 🏛 Strategy → Action
-- 🤖 AI → Organizational Intelligence
+📊 Data → Insights
 
-Every project I build is designed with measurable impact, scalability, and long-term value in mind.
+📈 Insights → Strategy
 
+🏛 Strategy → Action
+
+🤖 AI → Organizational Intelligence
+
+Every solution I build is designed to create measurable impact, scalability, and long-term organizational value.
+
+> **From strategy to execution, every solution should create measurable organizational value.**
 ---
 ## 🌐 Open to Collaboration
 
