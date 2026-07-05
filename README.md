@@ -120,7 +120,7 @@ The repositories below represent my professional roadmap and ongoing work. Each 
 | ⚙ Business Process Automation | Intelligent Automation with Python | 🚧 Planned |
 | 🧠 Machine Learning Portfolio | Predictive Modeling & Business Applications | ✅ Ongoing |
 | 🤖 AI Decision Intelligence | AI-Based Decision Support Systems | 🚧 Planned |
-| 🌐 Deep Learning Portfolio | Neural Networks & Advanced AI | 🚀 Current Focus 
+| 🌐 Deep Learning Portfolio | Neural Networks & Advanced AI | 🚀 Current Focus |
 
 ---
 ## 📌 Current Focus
@@ -175,9 +175,9 @@ Intelligent Organizations
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FRHanife &show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FRHanife&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRHanife &layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRHanife&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
@@ -222,6 +222,7 @@ Transforming:
 Every solution I build is designed to create measurable impact, scalability, and long-term organizational value.
 
 > **From strategy to execution, every solution should create measurable organizational value.**
+
 ---
 ## 🌐 Open to Collaboration
 
@@ -263,7 +264,7 @@ If our interests align, feel free to connect or collaborate.
 
 ### Thank you for visiting my profile!
 
-Building intelligent organizations through
+Building the future of intelligent organizations through
 
 **Strategy • Business Intelligence • Data Science • Artificial Intelligence**
 
