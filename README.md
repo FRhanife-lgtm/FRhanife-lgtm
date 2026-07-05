@@ -175,9 +175,9 @@ Intelligent Organizations
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FRhanife-lgtm&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FRhanife-lgtm&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRhanife-lgtm&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRhanife-lgtm&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
@@ -209,13 +209,12 @@ My long-term goal is to design intelligent systems that transform data into stra
 
 Transforming:
 
-📊 Data → Insights
+- 📊 Data → Insights
+- 📈 Insights → Strategy
+- 🏛 Strategy → Action
+- 🤖 AI → Organizational Intelligence
 
-📈 Insights → Strategy
-
-🏛 Strategy → Action
-
-🤖 AI → Organizational Intelligencebuild is designed with measurable impact, scalability, and long-term value in mind.
+Every project I build is designed with measurable impact, scalability, and long-term value in mind.
 
 ---
 ## 🌐 Open to Collaboration
